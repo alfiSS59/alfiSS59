@@ -208,9 +208,9 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="../../index.html" class="nav-link">
+                <a href="/paket" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>print tugas</p>
+                  <p>paket</p>
                 </a>
               </li>
               <li class="nav-item">
